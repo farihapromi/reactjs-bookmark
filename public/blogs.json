@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/bL79CkV/1.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/G55YD7Z/boy1.png",
+      "posted_date": "2023-10-15",
+      "reading_time": 10,
+      "hashtags": ["technology", "programming", "web"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/CPGp297/2.png",
+      "title": "Consectetur Adipiscing Elit",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/XFZHZDb/boy2.jpg",
+      "posted_date": "2023-10-16",
+      "reading_time": 8,
+      "hashtags": ["science", "research", "biology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/pLB2dQb/3.png",
+      "title": "Sed Do Eiusmod Tempor",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/ZN5qvJK/girl1.jpg",
+      "posted_date": "2023-10-17",
+      "reading_time": 12,
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/N73TyjP/4.jpg",
+      "title": "Incididunt Ut Labore Et",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/qyBY2wd/girl2.jpg",
+      "posted_date": "2023-10-18",
+      "reading_time": 6,
+      "hashtags": ["food", "cooking", "recipes"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/N73TyjP/1.jpg",
+      "title": "Duis Aute Irure Dolor",
+      "author": "Michael Wilson",
+      "author_img": "https://i.ibb.co/qyBY2wd/girl2.jpg",
+      "posted_date": "2023-10-19",
+      "reading_time": 15,
+      "hashtags": ["music", "arts", "creativity"]
+    }
+  ]
+  
